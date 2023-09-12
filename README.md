@@ -2,7 +2,7 @@
 
 ![Logo de Mi Proyecto](image.png)
 
-# Sobre Mi:
+# Sobre Mi
 
 ## Estadisticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=rubenespza&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
