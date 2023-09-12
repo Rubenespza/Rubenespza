@@ -5,7 +5,7 @@
 
 ¡Hola! soy un entusiasta del desarrollo de software en constante crecimiento. Aunque mi experiencia en el mundo del código puede ser limitada en comparación con algunos experimentado, estoy emocionado y comprometido a aprender y evolucionar en el desarrollo de la programacion.
 
-<img src="https://github.com/Rubenespza/Rubenespza/blob/main/ezgif.com-crop.gif" alt="Texto alternativo" width="100">
+<img src="https://github.com/Rubenespza/Rubenespza/blob/main/ezgif.com-crop.gif" alt="Texto alternativo" width="200">
 
 # Estadisticas GitHub:
 
