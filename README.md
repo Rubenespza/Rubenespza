@@ -1,4 +1,6 @@
-# Hola Soy Ruben!👨‍💻
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">RubenEspinoza</a> 👋</h1>
+</div>
 ![Logo de Mi Proyecto](image.png)
 
 ## Estadisticas GitHub:
