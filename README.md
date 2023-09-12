@@ -5,6 +5,8 @@
 
 ¡Hola! soy un entusiasta del desarrollo de software en constante crecimiento. Aunque mi experiencia en el mundo del código puede ser limitada en comparación con algunos experimentado, estoy emocionado y comprometido a aprender y evolucionar en el desarrollo de la programacion.
 
+![Logo de Mi Proyecto](ezgif.com-crop.gif.png)
+
 # Estadisticas GitHub:
 
 <div align="center">
