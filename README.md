@@ -1,3 +1,3 @@
 ### Hi there 👋
-![Logo de Mi Proyecto](AAA.png)
+![Logo de Mi Proyecto](image.png)
 
