@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy RubenEspinoza</a>👋</h1>
+
 
 ![Logo de Mi Proyecto](image.png)
 ## Estadisticas GitHub:
