@@ -1,11 +1,15 @@
 
 ![Logo de Mi Proyecto](image.png)
 
+# Acerca de Mi:
+
 ¡Hola! soy un entusiasta del desarrollo de software en constante crecimiento. Aunque mi experiencia en el mundo del código puede ser limitada en comparación con algunos experimentado, estoy emocionado y comprometido a aprender y evolucionar en el desarrollo de la programacion.
+
+## Estadisticas GitHub:
 
 <div align="center">
 
-## Estadisticas GitHub:
+
 ![](https://github-readme-stats.vercel.app/api?username=rubenespza&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rubenespza&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenespza&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
