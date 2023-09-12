@@ -5,12 +5,10 @@
 
 ¡Hola! soy un entusiasta del desarrollo de software en constante crecimiento. Aunque mi experiencia en el mundo del código puede ser limitada en comparación con algunos experimentado, estoy emocionado y comprometido a aprender y evolucionar en el desarrollo de la programacion.
 
-<div style="display: flex; align-items: center;">
-<img src="https://github.com/Rubenespza/Rubenespza/blob/main/ezgif.com-crop.gif" alt="Texto alternativo" width="200">
+<img src="https://github.com/Rubenespza/Rubenespza/blob/main/ezgif.com-crop.gif"<img align="left" width="150" height="150">
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-</div>
 
 # Estadisticas GitHub:
 
